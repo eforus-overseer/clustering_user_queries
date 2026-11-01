@@ -5,4 +5,4 @@
 
 ![Pixel-art cover for clustering_user_queries](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [Chandra and the Bullet Cluster (SVS30094)](https://commons.wikimedia.org/wiki/File:Chandra_and_the_Bullet_Cluster_(SVS30094).png) by NASA's Scientific Visualization Studio - Marit Jentoft-Nilsen, licensed Public domain. Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji bar chart](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F4CA.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
